@@ -1,0 +1,7 @@
+D:\Проект Эйлера\3\3\4\bin\Debug\4.exe.config
+D:\Проект Эйлера\3\3\4\bin\Debug\4.exe
+D:\Проект Эйлера\3\3\4\bin\Debug\4.pdb
+D:\Проект Эйлера\3\3\4\obj\Debug\4.csprojAssemblyReference.cache
+D:\Проект Эйлера\3\3\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\Проект Эйлера\3\3\4\obj\Debug\4.exe
+D:\Проект Эйлера\3\3\4\obj\Debug\4.pdb
