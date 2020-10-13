@@ -17,7 +17,7 @@ namespace _4
             }
             return res;
         }
-
+        
         static void Main(string[] args)
         {
             uint result = 0;
