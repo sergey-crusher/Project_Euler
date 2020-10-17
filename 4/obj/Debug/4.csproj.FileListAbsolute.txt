@@ -5,3 +5,10 @@ D:\Проект Эйлера\3\3\4\obj\Debug\4.csprojAssemblyReference.cache
 D:\Проект Эйлера\3\3\4\obj\Debug\4.csproj.CoreCompileInputs.cache
 D:\Проект Эйлера\3\3\4\obj\Debug\4.exe
 D:\Проект Эйлера\3\3\4\obj\Debug\4.pdb
+D:\Git\Project_Euler\4\bin\Debug\4.exe.config
+D:\Git\Project_Euler\4\bin\Debug\4.exe
+D:\Git\Project_Euler\4\bin\Debug\4.pdb
+D:\Git\Project_Euler\4\obj\Debug\4.csprojAssemblyReference.cache
+D:\Git\Project_Euler\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\Git\Project_Euler\4\obj\Debug\4.exe
+D:\Git\Project_Euler\4\obj\Debug\4.pdb
