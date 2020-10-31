@@ -10,9 +10,18 @@ namespace _6
     {
         static void Main(string[] args)
         {
-            //Сумма n первых натуральных чисел
-            int n = 10;
+            //Количество натуральных чисел
+            int n = 100;
 
+            //Сумма квадратов n первых натуральных чисел
+            int sum1 = (n * (n + 1)*(2 * n + 1)) / 6;
+
+            //Сумма n первых натуральных чисел в квадрате
+            int sum2 = (int)Math.Pow(((n * (n + 1)) / 2), 2);
+
+            //Результат
+            Console.WriteLine(sum2-sum1);
+            Console.ReadKey();
         }
     }
 }
