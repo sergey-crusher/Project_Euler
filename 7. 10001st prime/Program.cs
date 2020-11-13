@@ -8,6 +8,10 @@ namespace _7
 {
     class Program
     {
+        /// <summary>
+        /// Реализованно с помощью алгоритма "Решето Эратосфена"
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             int n = 10_001;                                                                 //Количество простых чисел
